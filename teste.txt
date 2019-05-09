@@ -1,0 +1,6 @@
+yarn add cypress -D
+
+node_modules/.bin/cypress open
+
+yarn run cypress
+yarn run cypress:all
